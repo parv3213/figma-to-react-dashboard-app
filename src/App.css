@@ -9,3 +9,8 @@ html {
   box-sizing: border-box;
   overflow-x: hidden;
 }
+
+.dim_text {
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
