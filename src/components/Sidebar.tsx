@@ -3,7 +3,6 @@ import samantha from '../assets/png/samantha.png'
 
 const Sidebar = () => {
   return (
-    // TODO remove
     <aside className="absolute top-0 bottom-0 left-0 w-[25vh] flex flex-col justify-center items-center bg-black text-white">
       <div className="h-[100%] flex flex-col justify-around">
         {/* Profile */}
@@ -16,7 +15,6 @@ const Sidebar = () => {
             </p>
           </div>
           <span className="font-semibold text-[30px] leading-[35px] mt-4">Samantha</span>
-          {/* TODO check */}
           <span className="font-normal text-[17px] leading-[27px] dim_text">samantha@email.com</span>
         </div>
 
