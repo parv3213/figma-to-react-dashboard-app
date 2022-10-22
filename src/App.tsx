@@ -1,12 +1,17 @@
 import React from 'react'
 import './App.css'
-import Sidebar from './components/Sidebar'
+import Sidebar from './components/Sidebar/Sidebar'
+import { BrowserRouter as Router } from 'react-router-dom'
+import Expenses from './pages/Expenses'
 
 function App() {
   return (
-    <div className="App">
-      <Sidebar />
-    </div>
+    <>
+      <Router>
+        <Sidebar />
+        <Expenses />
+      </Router>
+    </>
   )
 }
 
