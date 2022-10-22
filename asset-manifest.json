@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/figma-to-react-dashboard-app/static/css/main.3bde93b4.css",
+    "main.js": "/figma-to-react-dashboard-app/static/js/main.814815e4.js",
+    "static/media/transportIcon.svg": "/figma-to-react-dashboard-app/static/media/transportIcon.654be71e906e9d7918a65f62380e2676.svg",
+    "index.html": "/figma-to-react-dashboard-app/index.html",
+    "static/media/cartIcon.svg": "/figma-to-react-dashboard-app/static/media/cartIcon.ad31a888590857c57aab3f8d2021e435.svg",
+    "static/media/houseIcon.svg": "/figma-to-react-dashboard-app/static/media/houseIcon.a0914e6ac4cf70465484ac3d1e6aea6a.svg",
+    "main.3bde93b4.css.map": "/figma-to-react-dashboard-app/static/css/main.3bde93b4.css.map",
+    "main.814815e4.js.map": "/figma-to-react-dashboard-app/static/js/main.814815e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bde93b4.css",
+    "static/js/main.814815e4.js"
+  ]
+}
